@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" width="100%" height="100%">
+  <!-- Icon Symbol: Interlocking A and M -->
+  <g transform="translate(30, 20)">
+    <!-- Top Navy 'A' Peak -->
+    <path d="M 85 5 L 145 135 L 115 135 L 85 68 L 55 135 L 25 135 Z" fill="#0B1340" />
+    <!-- Yellow 'M' Base Chevron -->
+    <path d="M 10 160 L 52 70 L 85 135 L 118 70 L 160 160 L 132 160 L 102 96 L 85 130 L 68 96 L 38 160 Z" fill="#F8C000" />
+  </g>
+
+  <!-- Wordmark Section -->
+  <g transform="translate(230, 36)">
+    <!-- Dark Navy Container for ALU -->
+    <rect x="0" y="0" width="220" height="128" rx="2" fill="#0B1340" />
+    <!-- ALU Text in White -->
+    <text x="110" y="96" font-family="'Oswald', 'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="96" letter-spacing="12" fill="#FFFFFF" text-anchor="middle">ALU</text>
+
+    <!-- MIDAS Text in Golden Yellow -->
+    <text x="248" y="96" font-family="'Oswald', 'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="96" letter-spacing="8" fill="#F8C000" text-anchor="start">MIDAS</text>
+  </g>
+</svg>
